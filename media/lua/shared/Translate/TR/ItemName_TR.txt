@@ -1,4 +1,4 @@
 ItemName_TR = {
-	ItemName_Ladders.SteelLader = "Steel Ladder",
-	ItemName_Ladders.WoodenLader = "Wodden Ladder",
+	ItemName_Ladders.SteelLader = "Çelik Merdiven",
+	ItemName_Ladders.WoodenLader = "Tahta Merdiven",
 }
